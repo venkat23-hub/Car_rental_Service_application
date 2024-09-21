@@ -1,0 +1,12 @@
+<!-- File: android/app/src/main/res/values/values.xml -->
+<resources>
+    <!-- Firebase Configuration -->
+    <string name="google_app_id">1:360141635870:android:5f3b2d4584e92a50fbc90f</string>
+    <string name="google_api_key">AIzaSyCKE94Es-gA8IpIOtfYF8vXvmLn1iF5UnM</string>
+    <string name="firebase_database_url">https://car-rental-1d4e3.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">360141635870</string>
+    <string name="google_storage_bucket">car-rental-1d4e3.appspot.com</string>
+    <string name="project_id">car-rental-1d4e3</string>
+
+    <!-- Optional: Add any other Firebase-specific values you need here -->
+</resources>
